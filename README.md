@@ -14,9 +14,15 @@ An end-to-end project focused on detecting fraudulent financial transactions usi
 
 ## 📦 Dataset
 
-- Located in the `data/` directory.
-- Includes columns like `TX_ID`, `TX_DATETIME`, `CUSTOMER_ID`, `TERMINAL_ID`, `TX_AMOUNT`, `TX_FRAUD`.
-- Simulated to mimic real-world credit card transaction behavior.
+The dataset simulates real-world financial transactions with millions of records and includes features such as:
+
+- `TX_ID`, `TX_DATETIME`, `CUSTOMER_ID`, `TERMINAL_ID`, `TX_AMOUNT`, and `TX_FRAUD`.
+
+📥 **Download Dataset**:  
+[Click here to download the dataset (Google Drive)](https://drive.google.com/file/d/1RmyroE7zHcB6-BrJ-wEnXR1rP_W86WaJ/view?usp=sharing)
+
+> After downloading, extract the file and place the contents inside the `data/` directory before running the notebook.
+
 
 ---
 
